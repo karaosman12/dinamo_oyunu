@@ -11,11 +11,8 @@ Dinamo Oyunu, kullanıcıların belirli bir aralıkta rastgele bir sayıyı tahm
 
 ## Kurulum
 
-1. Python 3.x'in yüklü olduğundan emin olun.
-2. Oyunu başlatmak için:
-   ```bash
-   python dinamo_oyunu.py
-   ```
+1. `dinamo_oyunu.exe` dosyasını indirin.
+2. Dosyayı çalıştırarak oyunu başlatın.
 
 ## Lisans
 
